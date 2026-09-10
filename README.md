@@ -1,4 +1,4 @@
 # Algorithm2026
 ----
 
-[SelectionSorting](./homework/selection_sorting.pde)
+[SelectionSorting](./homework/selection_sorting_by_method.pde)
