@@ -7,3 +7,8 @@
 [BubbleSorting](./homework/bubble_selection.pde)
 <img width="1355" height="2088" alt="image" src="https://github.com/user-attachments/assets/31ee70f2-42d6-4e83-bd1c-cc22c2998b79" />
 
+[InsertionSorting](./homework/insertion_sorting.pde)
+
+[MergeSorting](./homework/merge_sorting.pde)
+
+[QuickSorting](./homework/quick_sorting.pde)
