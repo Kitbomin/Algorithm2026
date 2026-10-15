@@ -42,10 +42,10 @@ algorithm implementation and visualization archive using Processing.
   </details>
 
 * **6. Heap Sorting**
-  * 📄 Source: [``](./homework/)
+  * 📄 Source: [`heap_sort.pde`](./homework/heap_sort.pde)
   <details>
     <summary>출력화면</summary>
-    
+    <img width="600" src="https://github.com/user-attachments/assets/3392b7a7-1ae9-4cf6-b1af-7c048c1992c5" />
   </details>
 
 ---
