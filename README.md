@@ -61,5 +61,5 @@ algorithm implementation and visualization archive using Processing.
 ### Tree
 - **Binary Search Tree**
   * 📄 Source: [`BinarySearchTree.pde`](./homework/BinarySearchTree.pde)
-  * [`B-Tree/b-tree-gif.gif`](./main/B-Tree/b-tree-gif.gif)
+  * [`B-Tree/b-tree-gif.gif`](./blob/main/B-Tree/b-tree-gif.gif)
   
