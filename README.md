@@ -50,5 +50,16 @@ algorithm implementation and visualization archive using Processing.
 
 ---
 
-### Tree
+### Anime
 
+- **bubble Sorting Anime**
+  * 📄 Source: [`SortAnimation.pde`](.homework/SortAnimation.pde)
+  * [`SortAnimation/anime-gif.gif`](./main/SortAnimation/anime-gif.gif)
+  <img width="1364" height="946" alt="anime-gif" src="https://github.com/user-attachments/assets/2677fcab-7b3f-4f51-817b-01e2439e37ab" />
+
+
+### Tree
+- **Binary Search Tree**
+  * 📄 Source: [`BinarySearchTree.pde`](./homework/BinarySearchTree.pde)
+  * [`B-Tree/b-tree-gif.gif`](./main/B-Tree/b-tree-gif.gif)
+  
