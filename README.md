@@ -63,3 +63,17 @@ algorithm implementation and visualization archive using Processing.
   * 📄 Source: [`BinarySearchTree.pde`](./homework/BinarySearchTree.pde)
   * [`B-Tree/b-tree-gif.gif`](./blob/main/B-Tree/b-tree-gif.gif)](https://github.com/Kitbomin/Algorithm2026/blob/cd61f6c3412e71a4c77040bc7f4ecb8b0a087d83/B-Tree/b-tree-gif.gif)
   
+### Dynamic Programming
+* **1. fibo_golden_ratio**
+  * 📄 Source: [`fibo_golden_ratio.pde`](./homework/fibo_golden_ratio.pde)
+  <details>
+    <summary>출력화면</summary>
+    <img width="600" src="https://github.com/user-attachments/assets/bacc8933-9fea-494c-b292-643863084c02" />
+  </details>
+
+* **2. PebbleSumAlgorithm**
+  * 📄 Source: [`PebbleSumAlgorithm.pde`](./homework/PebbleSumAlgorithm.pde)
+  <details>
+    <summary>출력화면</summary>
+    <img width="600" src="https://github.com/user-attachments/assets/a393f1b6-80d2-4a69-b417-64117c4dd499" />
+  </details>
