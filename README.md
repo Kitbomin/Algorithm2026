@@ -91,3 +91,28 @@ algorithm implementation and visualization archive using Processing.
     <summary>출력화면</summary>
     <img width="600" src="https://github.com/user-attachments/assets/a393f1b6-80d2-4a69-b417-64117c4dd499" />
   </details>
+
+### Graph
+* **1. BFS / DFS**
+  * 📄 Source: [`bfs_dfs.pde`](./graph/bfs_dfs/bfs_dfs.pde)
+  * 인접 리스트 기반 그래프에서 BFS(큐), DFS(스택·재귀) 방문 순서를 출력
+  <details>
+    <summary>출력화면</summary>
+    <img width="600" src="./graph/bfs_dfs/output.png" />
+  </details>
+
+* **2. Minimum Spanning Tree (Kruskal's)**
+  * 📄 Source: [`MinimumSpanningTree_Kruskal_s.pde`](./graph/MinimumSpanningTree_Kruskal_s/MinimumSpanningTree_Kruskal_s.pde)
+  * 간선을 가중치 순으로 정렬한 뒤 Union-Find로 사이클을 피하며 최소 신장 트리 구성
+  <details>
+    <summary>출력화면</summary>
+    <img width="600" src="./graph/MinimumSpanningTree_Kruskal_s/output.png" />
+  </details>
+
+* **3. Infix to Postfix Calculator**
+  * 📄 Source: [`infix_to_postfix_calculator.pde`](./graph/infix_to_postfix_calculator/infix_to_postfix_calculator.pde)
+  * 스택으로 중위 표기식을 후위 표기식으로 변환하고 계산 (예: `(3 + 4) * 2 - 8 / 4` → `3 4 + 2 * 8 4 / -` = `12`)
+  <details>
+    <summary>출력화면</summary>
+    <img width="600" src="./graph/infix_to_postfix_calculator/output.png" />
+  </details>
